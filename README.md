@@ -8,8 +8,11 @@ De acuerdo a la información analizada que comprende datos de 2007 al primer tri
 ![image](https://github.com/user-attachments/assets/bb10b338-86d3-481e-a65d-79f0e951cd0c)
 ![image](https://github.com/user-attachments/assets/65bfccc2-5501-49df-a8af-b6e59c0be9c0)
 
-De acuerdo al objeto de estudio se puedo observar que en este periodo se contó con 45 mil donates a lo largo y ancho del país, siendo Jalisco, Aguascalientes y Nuevo León el top tres con la mayor cantidad de donadores.
+De acuerdo al objeto de estudio se puedo observar que en este periodo se contó con poco más de 44 mil donantes a lo largo y ancho del país, siendo Jalisco, Aguascalientes y Nuevo León el top tres con la mayor cantidad de donadores.
 
 ![image](https://github.com/user-attachments/assets/3d8ddd90-6114-4cf5-8246-9613d546a697)
 
+En la siguiente visualización se puede observar a detalle el tipo de donación que se realizado, resaltando en el grupo que el órganos más solicitado ha sido el riñón.
+
+![image](https://github.com/user-attachments/assets/60ef2f3a-1a6b-4d0e-ad80-37e093c7c966)
 
