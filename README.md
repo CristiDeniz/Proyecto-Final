@@ -16,3 +16,5 @@ En la siguiente visualización se puede observar a detalle el tipo de donación 
 
 ![image](https://github.com/user-attachments/assets/60ef2f3a-1a6b-4d0e-ad80-37e093c7c966)
 
+## Conclusiones
+El análisis realizado sobre la donación de órganos en México se encontraron algunos hallazgos clave. En primer lugar, se observa que la mayoría de las donaciones provienen de donantes vivos y no muertos como se cree, siendo los hombres los principales donantes. El IMSS es la institución con el mayor registro de donaciones, el promedio anual de donaciones en México es de 3,214, lo que equivale a 267 donaciones mensuales. Sin embargo, del 2018 al 2019 se registró un decremento considerable en las donaciones, posiblemente influenciado por la pandemia. En cuanto a los órganos, el riñón es el más donado, y los estados con mayor número de donantes son Jalisco, Aguascalientes y Nuevo León. Estos resultados muestran la importancia de seguir promoviendo la donación de órganos.
